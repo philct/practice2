@@ -1,0 +1,13 @@
+h1 {
+ font-family: sans-serif;
+ font-size: 90px;
+ text-align: center;
+ margin-top: 300px;
+}
+
+body {
+ background-color: #f0f0f0;
+ font-family: Arial, sans-serif;
+ margin: 0;
+ padding: 20px;
+}
